@@ -1,4 +1,4 @@
-# Proiect Ingineria Programarii - B3 - Platform for collecting and correctim homeworks
+# Proiect Ingineria Programarii - B3 - Platform for collecting and correcting homeworks
 
 **Presentation video**: https://youtu.be/24c7iQzuyyA
 
